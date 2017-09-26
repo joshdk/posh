@@ -1,4 +1,6 @@
-[![](https://circleci.com/gh/circleci/mongofinil.svg?&style=shield)](https://circleci.com/gh/joshdk/posh/tree/master)
+[![GoDoc](https://godoc.org/github.com/joshdk/posh?status.svg)](https://godoc.org/github.com/joshdk/posh)
+[![Go Report Card](https://goreportcard.com/badge/github.com/joshdk/posh)](https://goreportcard.com/report/github.com/joshdk/posh)
+[![CircleCI](https://circleci.com/gh/joshdk/posh.svg?&style=shield)](https://circleci.com/gh/joshdk/posh/tree/master)
 
 # Posh
 
